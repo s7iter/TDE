@@ -1,0 +1,11 @@
+Discovery and Early Evolution of ASASSN-19bt, the First TDE Detected by TESS
+https://arxiv.org/abs/1904.09293
+Note: 
+ASASSN-19bt (2MASX J07001137−6602251) 2019-01-29
+Tbb (Lbol) decline at the very early phase
+emission from Hα, He I 5875Å, and a broad blue feature that spans the Hβ, He II 4686Å, and Hγ lines, No N line
+FWHM(Hα)~2.7×10^4 km/s and FWHM(He I)~2.1×10^4 km/s
+这是ASASSN巡天发现的恰巧又落在TESS的continuous viewing zone(CVZ)区域的一个TDE candidate，很多卫星因为轨道的原因都类似WISE在黄极附近有连续的采样，比如TESS会每30分钟一个采样，这样的话就能给出一个比较连续的光变曲线，这对于一些transient的理解非常重要，另外发现早我们就能更早触发多波段的follow-up。TESS给出的变亮是时间是-43天
+1. 但其实这个源最早还是通过ASASSN发现的然后再发现是TESS天区的，发现时间大约是峰值之前的35天，这么早就能识别出耀发是因为换了g波段滤光片的缘故？
+2. 宽线达到2万多公里，这是不是很罕见？
+3. expanding velocity
